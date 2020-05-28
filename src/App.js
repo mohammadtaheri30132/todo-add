@@ -11,7 +11,6 @@ import axios from "axios"
 export default function App() {
 
     const TodosContext = useContext(todosContext)
-    const _TodosContext = 0
 
 
 
